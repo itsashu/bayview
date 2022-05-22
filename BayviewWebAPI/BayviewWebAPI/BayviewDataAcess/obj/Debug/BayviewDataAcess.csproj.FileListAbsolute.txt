@@ -1,0 +1,12 @@
+C:\Ashu\projects\bayview\BayviewWebAPI\BayviewWebAPI\BayviewDataAcess\bin\Debug\BayviewDataAcess.dll.config
+C:\Ashu\projects\bayview\BayviewWebAPI\BayviewWebAPI\BayviewDataAcess\bin\Debug\BayviewDataAcess.dll
+C:\Ashu\projects\bayview\BayviewWebAPI\BayviewWebAPI\BayviewDataAcess\bin\Debug\BayviewDataAcess.pdb
+C:\Ashu\projects\bayview\BayviewWebAPI\BayviewWebAPI\BayviewDataAcess\bin\Debug\EntityFramework.dll
+C:\Ashu\projects\bayview\BayviewWebAPI\BayviewWebAPI\BayviewDataAcess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Ashu\projects\bayview\BayviewWebAPI\BayviewWebAPI\BayviewDataAcess\bin\Debug\EntityFramework.xml
+C:\Ashu\projects\bayview\BayviewWebAPI\BayviewWebAPI\BayviewDataAcess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Ashu\projects\bayview\BayviewWebAPI\BayviewWebAPI\BayviewDataAcess\obj\Debug\BayviewDataAcess.csproj.AssemblyReference.cache
+C:\Ashu\projects\bayview\BayviewWebAPI\BayviewWebAPI\BayviewDataAcess\obj\Debug\BayviewDataAcess.csproj.CoreCompileInputs.cache
+C:\Ashu\projects\bayview\BayviewWebAPI\BayviewWebAPI\BayviewDataAcess\obj\Debug\BayviewDataAcess.csproj.CopyComplete
+C:\Ashu\projects\bayview\BayviewWebAPI\BayviewWebAPI\BayviewDataAcess\obj\Debug\BayviewDataAcess.dll
+C:\Ashu\projects\bayview\BayviewWebAPI\BayviewWebAPI\BayviewDataAcess\obj\Debug\BayviewDataAcess.pdb

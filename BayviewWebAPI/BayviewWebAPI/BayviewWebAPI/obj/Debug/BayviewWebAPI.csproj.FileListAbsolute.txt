@@ -92,3 +92,15 @@ C:\Ashu\projects\bayview\BayviewWebAPI\BayviewWebAPI\BayviewWebAPI\bin\Microsoft
 C:\Ashu\projects\bayview\BayviewWebAPI\BayviewWebAPI\BayviewWebAPI\obj\Debug\BayviewWebAPI.csproj.CopyComplete
 C:\Ashu\projects\bayview\BayviewWebAPI\BayviewWebAPI\BayviewWebAPI\obj\Debug\BayviewWebAPI.dll
 C:\Ashu\projects\bayview\BayviewWebAPI\BayviewWebAPI\BayviewWebAPI\obj\Debug\BayviewWebAPI.pdb
+C:\Ashu\projects\bayview\BayviewWebAPI\BayviewWebAPI\BayviewWebAPI\bin\BayviewDataAcess.dll
+C:\Ashu\projects\bayview\BayviewWebAPI\BayviewWebAPI\BayviewWebAPI\bin\EntityFramework.dll
+C:\Ashu\projects\bayview\BayviewWebAPI\BayviewWebAPI\BayviewWebAPI\bin\EntityFramework.SqlServer.dll
+C:\Ashu\projects\bayview\BayviewWebAPI\BayviewWebAPI\BayviewWebAPI\bin\BayviewDataAcess.pdb
+C:\Ashu\projects\bayview\BayviewWebAPI\BayviewWebAPI\BayviewWebAPI\bin\BayviewDataAcess.dll.config
+C:\Ashu\projects\bayview\BayviewWebAPI\BayviewWebAPI\BayviewWebAPI\bin\EntityFramework.xml
+C:\Ashu\projects\bayview\BayviewWebAPI\BayviewWebAPI\BayviewWebAPI\bin\EntityFramework.SqlServer.xml
+C:\Ashu\projects\bayview\BayviewWebAPI\BayviewWebAPI\BayviewWebAPI\bin\Ninject.Web.Common.WebHost.dll
+C:\Ashu\projects\bayview\BayviewWebAPI\BayviewWebAPI\BayviewWebAPI\bin\Ninject.Web.WebApi.WebHost.dll
+C:\Ashu\projects\bayview\BayviewWebAPI\BayviewWebAPI\BayviewWebAPI\bin\WebActivatorEx.dll
+C:\Ashu\projects\bayview\BayviewWebAPI\BayviewWebAPI\BayviewWebAPI\bin\Ninject.Web.Common.WebHost.xml
+C:\Ashu\projects\bayview\BayviewWebAPI\BayviewWebAPI\BayviewWebAPI\bin\Ninject.Web.WebApi.WebHost.xml
