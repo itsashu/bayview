@@ -19,7 +19,7 @@ export const UploadImage = ({
       const newImage: ImageType = {
         Title: title,
         Description: description,
-        Image: selectedImage,
+        ImageData: selectedImage,
       };
       try {
         addImageCallback(newImage);

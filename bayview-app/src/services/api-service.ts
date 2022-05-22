@@ -1,7 +1,7 @@
 import { WEBAPI_DOMAIN_ADDRESS } from "../configs/app.config";
 import { ImageInfoType, ImageType } from "../types/types";
 
-export const CONTROLLER: string = "images";
+export const CONTROLLER: string = "gallery";
 
 const url: string = `${WEBAPI_DOMAIN_ADDRESS}/${CONTROLLER}`;
 

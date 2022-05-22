@@ -5,5 +5,5 @@ export type ImageInfoType = {
 };
 
 export type ImageType = ImageInfoType & {
-  Image: any;
+  ImageData: any;
 };

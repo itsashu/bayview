@@ -44,7 +44,7 @@ export const BayviewApp = (): ReactElement => {
     const newImage = new FormData();
     newImage.append("Title", image.Title);
     newImage.append("Description", image.Description);
-    newImage.append("Image", image.Image);
+    newImage.append("Image", image.ImageData);
 
     try {
       const newImages = await saveNewImageApi(newImage);

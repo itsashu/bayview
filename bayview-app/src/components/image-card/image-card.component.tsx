@@ -33,7 +33,7 @@ export const ImageCard = ({
       <img
         className="image"
         alt="not found"
-        src={`data:image/*;base64,${imageFile.Image}`}
+        src={`data:image/*;base64,${imageFile.ImageData}`}
       />
       <div className="inputs">
         <label htmlFor="title">Title*: </label>
